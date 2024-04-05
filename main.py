@@ -9,7 +9,7 @@ str2 = str1[0:3]
 print(str2)
 
 # Exercise 3: Use an index to grab the first element from your list.
-list2 = list1[0:3]
+list2 = list1[0]
 print(list2)
 
 # Exercise 4: Create a new number variable that adds 10 to your original number.
